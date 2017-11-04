@@ -17,10 +17,10 @@ import (
 	"github.com/urfave/cli"
 	"k8s.io/helm/pkg/repo"
 
-	"github.com/AcalephStorage/rudder/internal/client"
-	"github.com/AcalephStorage/rudder/internal/controller"
-	"github.com/AcalephStorage/rudder/internal/filter"
-	"github.com/AcalephStorage/rudder/internal/resource"
+	"rudder/internal/client"
+	"rudder/internal/controller"
+	"rudder/internal/filter"
+	"rudder/internal/resource"
 )
 
 const (

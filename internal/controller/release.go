@@ -8,7 +8,7 @@ import (
 	tiller "k8s.io/helm/pkg/proto/hapi/services"
 
 	"fmt"
-	"github.com/AcalephStorage/rudder/internal/client"
+	"rudder/internal/client"
 )
 
 // GetReleaseResponse contains the response for requesting Release information

@@ -7,7 +7,7 @@ import (
 	"github.com/emicklei/go-restful"
 	"k8s.io/helm/pkg/repo"
 
-	"github.com/AcalephStorage/rudder/internal/controller"
+	"rudder/internal/controller"
 )
 
 var (
